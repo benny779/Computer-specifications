@@ -17,3 +17,6 @@ The tool exports the data below:
 * MAC address
 
 Optional, check the end date of the warranty with the manufacturer (using Web-Api), currently for Lenovo only.
+
+---
+**Note:** This repository is no longer actively maintained and will be archived. Feel free to fork the code and use it as a starting point for your own project.
